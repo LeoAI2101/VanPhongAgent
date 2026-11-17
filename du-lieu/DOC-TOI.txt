@@ -1,0 +1,6 @@
+Thư mục này chứa bản sao lưu của văn phòng (sao-luu.json):
+nhân viên, màu sắc, phụ kiện, mẫu, và cả file model bạn đã tải lên.
+
+- Văn phòng TỰ LƯU vào đây mỗi khi bạn chỉnh sửa (khi đang chạy).
+- Mở văn phòng trên máy/trình duyệt mới -> tự nạp lại từ đây.
+- Đừng xóa thư mục này nếu muốn giữ dữ liệu.
